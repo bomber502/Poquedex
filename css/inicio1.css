@@ -1,0 +1,19 @@
+body{
+    background: url("../images/fondo2.jpg") no-repeat fixed;
+	-webkit-background-size:cover;
+
+
+}
+.img{
+	margin:auto;
+	display: block;
+	width: 70%;
+}
+.color1{
+	color: #fff;
+}
+.img1{
+	margin:auto;
+	display: block;
+	width: 50%;
+}

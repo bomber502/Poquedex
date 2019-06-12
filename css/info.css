@@ -1,0 +1,11 @@
+.text{
+	background: #0E41E8;
+	color:#fff;
+}
+.fondo{
+	background: url("../images/img4.jpg") no-repeat fixed;
+	-webkit-background-size:cover;
+}
+.img{
+	width: 50%;
+}

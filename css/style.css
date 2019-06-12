@@ -1,0 +1,13 @@
+body{
+    background: url("../images/fondo1.jpg") no-repeat fixed center;
+	-webkit-background-size:cover;
+
+}
+.pon{
+	position: absolute;
+	bottom: 0;
+	transform: translate(+50%, +50%);
+}
+.color1{
+	color: #F98A13;
+}

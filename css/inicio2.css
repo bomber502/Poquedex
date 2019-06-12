@@ -1,0 +1,30 @@
+body{
+	background: url("../images/fondo3.jpg") no-repeat fixed;
+	-webkit-background-size:cover;
+
+}
+.text{
+	font-size: 200%;
+}
+header{
+	background: #670C96;
+	color: #fff;
+}
+.img{
+	margin: auto;
+	display: block;
+	width:10%;
+}
+button{
+	cursor: pointer;
+	width: 40%;
+
+}
+.color1{
+	color:#fff;
+}
+.img1{
+	margin: auto;
+	display: block;
+	width: 100%;
+}

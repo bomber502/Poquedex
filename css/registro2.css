@@ -1,0 +1,40 @@
+body{
+    background: url("../images/fondo2.jpg") no-repeat fixed;
+	-webkit-background-size:cover;
+
+
+}
+.img{
+	margin: auto;
+	display: block;
+	width:40%;
+}
+.img1{
+	
+	width:50%;
+}
+button{
+	cursor: pointer;
+	width: 70%;
+	
+}
+form{
+	
+	margin: 5%; 
+}
+label{
+	background: #61BFEF;
+	font-size: 150%;
+	color: #7621F6;
+}
+input{
+	width: 70%;
+	padding: 6px;
+	border: 2px solid black;
+}
+input:focus{
+	border:4px solid #23EF61;
+}
+.color1{
+	color:#fff;
+}
